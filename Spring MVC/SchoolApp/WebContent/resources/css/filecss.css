@@ -1,0 +1,12 @@
+.center-items{
+  
+  margin: 5px;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  background: url("../img/overlay.png"), url("../img/banner.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 16em 0em 14em;
+}
