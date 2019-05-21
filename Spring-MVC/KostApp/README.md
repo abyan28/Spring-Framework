@@ -22,7 +22,7 @@ Sistem informasi kost merupakan sebuah sistem informasi berbasis web untuk manaj
 - Melakukan manajemen kamar.
 ### Use Case Diagram
 
-![alt text](https://github.com/abyan28/Spring-Framework/raw/master/Spring%20MVC/KostApp/Use_Case_KostApp/UCD_KostApp.jpg)
+![alt text](https://github.com/abyan28/Spring-Framework/raw/master/Spring-MVC/KostApp/Use_Case_KostApp/UCD_KostApp.jpg)
 
 
 ## Analisis
@@ -32,7 +32,7 @@ Sistem informasi kost merupakan sebuah sistem informasi berbasis web untuk manaj
 ## Sitemap Aplikasi
 Berikut sitemap aplikasi Kost App:
 
-![alt text](https://github.com/abyan28/Spring-Framework/raw/master/Spring%20MVC/KostApp/Sitemap/Sitemap_KostApp.png)
+![alt text](https://github.com/abyan28/Spring-Framework/raw/master/Spring-MVC/KostApp/Sitemap/Sitemap_KostApp.png)
 
 
 Mungkin, seiring berjalannya waktu, sitemap ini dapat berubah untuk mengakomodasi fitur yang lebih banyak.
