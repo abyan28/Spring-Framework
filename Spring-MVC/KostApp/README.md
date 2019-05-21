@@ -40,15 +40,15 @@ Mungkin, seiring berjalannya waktu, sitemap ini dapat berubah untuk mengakomodas
 ## Tampilan Web
 Untuk tampilan web masih sangat sederhana sekali, mungkin ke depan akan lebih diperbaiki kembali.
 
-![alt text](https://github.com/abyan28/Spring-Framework/raw/master/Spring%20MVC/KostApp/screenshot/1.JPG)
+![alt text](https://github.com/abyan28/Spring-Framework/raw/master/Spring-MVC/KostApp/screenshot/1.JPG)
 
 Halaman Login.
 
-![alt text](https://github.com/abyan28/Spring-Framework/raw/master/Spring%20MVC/KostApp/screenshot/2.JPG)
+![alt text](https://github.com/abyan28/Spring-Framework/raw/master/Spring-MVC/KostApp/screenshot/2.JPG)
 Halaman 
 Utama.
 
-![alt text](https://github.com/abyan28/Spring-Framework/raw/master/Spring%20MVC/KostApp/screenshot/3.JPG)
+![alt text](https://github.com/abyan28/Spring-Framework/raw/master/Spring-MVC/KostApp/screenshot/3.JPG)
 
 Halaman Registrasi User.
 
