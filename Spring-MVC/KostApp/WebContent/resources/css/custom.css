@@ -1,0 +1,17 @@
+.own-custom-res-bg{
+	background-image: url(../img/res-bg.png);
+	background-position: center;
+}
+
+.eat-block-clear{
+	color: #f2f7f4;
+}
+
+.font-brown{
+	color: brown;
+}
+
+.own-texture-bg{
+	background-color: #259932;
+	background-image: url(../img/black-linen.png);
+}

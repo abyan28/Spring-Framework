@@ -1,0 +1,1 @@
+<div align="center">&COPY;[2019] Copyrights by abyanptyqm28</div>
